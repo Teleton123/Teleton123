@@ -1,115 +1,52 @@
 <div align="center">
 
-# Full-Stack Engineer · ERP Hacker · Indie Builder
+# Full-Stack Software Engineer
+
+**Building production-ready systems for e-commerce, enterprise automation, and fintech**
 
 </div>
 
 ---
 
-### 💡 About Me
+## 👋 About Me
 
-I build systems that make businesses run.
+I'm a full-stack engineer specializing in end-to-end product development. I combine backend architecture, frontend precision, and infrastructure expertise to deliver production-ready software that handles real transactions and scales with user demand.
 
-Not just pretty interfaces. Not just APIs. **Actual working products** that process payments, automate workflows, and ship to real users.
+My focus is on **practical solutions** — not architectural theory projects. Every system I build is designed for production from day one: performant, maintainable, and reliable.
 
-I've worked across ERP systems, e-commerce platforms, SaaS apps, and mobile applications. From customizing Odoo workflows to launching cross-platform mobile apps and integrating Stripe with Google Pay and Apple Pay, I focus on shipping production-ready software.
-
----
-
-### 🏗️ What I've Built
-
-- **ERP & Automation** — Custom Odoo modules and ERP workflow automation
-- **E-Commerce** — Full e-commerce store with Bagisto, including Stripe and PayPal integrations
-- **Payment Systems** — Google Pay, Apple Pay, and card payment flows with secure backend handling
-- **Mobile Apps** — React Native + Expo apps published to Google Play and Apple App Store
-- **Web Development** — High-performance landing pages built pixel-perfect from design
-- **Process Automation** — Business process automation with Zapier and Make
-
-I've worked with WordPress, OpenCart, Shopify, Laravel, ASP.NET, Next.js, Nuxt.js, Svelte, MongoDB, MySQL, and PostgreSQL.
-
-I move comfortably between backend architecture, frontend precision, and infrastructure decisions.
+**Background:** Over the years, I've worked across diverse domains including ERP systems, e-commerce platforms, SaaS applications, and consumer mobile apps. Whether it's customizing Odoo workflows, integrating payment processors, or launching apps to the App Store, I prioritize shipping quality software quickly.
 
 ---
 
-### ⚡ How I Work
+## 🏢 What I've Delivered
 
-I don't over-engineer. I don't ship fragile code. I don't build theory projects.
+- **Enterprise Systems** — Custom Odoo modules, ERP workflow automation, and business process optimization
+- **E-Commerce Platforms** — Full-featured stores (Bagisto) with multi-payment integrations (Stripe, PayPal)
+- **Payment Processing** — Production-grade payment flows including Google Pay, Apple Pay, and secure card handling
+- **Mobile Applications** — Cross-platform apps (React Native + Expo) published to Google Play and Apple App Store
+- **Web Applications** — High-performance sites and SaaS products with modern frontend frameworks
+- **Integration & Automation** — Business workflow automation, API integrations, and custom middleware solutions
 
-I build software that:
-- **Handles real transactions** — Production-ready payment processing
-- **Survives production traffic** — Tested, optimized, and reliable
-- **Scales when needed** — Built with growth in mind
-- **Can be maintained** — Clean code that other developers understand
-
-I care about clean architecture, predictable APIs, and automation that actually saves time.
+**Tech familiarity:** Laravel, ASP.NET, Next.js, Nuxt.js, Svelte, React, PostgreSQL, MySQL, MongoDB, WordPress, OpenCart, Shopify, and more.
 
 ---
 
-### 🔧 Tech Stack
+## 🔨 My Approach
 
-<table>
-<tr>
-<td valign="top" width="33%">
+I work with a pragmatic mindset:
 
-#### Languages
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
-</div>
-
-#### Backend
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="50" alt="Laravel" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="50" alt=".NET" />
-<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/82df4543-236b-4e45-9604-5434e3faab17" height="50" alt="Odoo" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-#### Frontend
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="50" alt="Next.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" height="50" alt="Nuxt.js" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="50" alt="Svelte" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React" />
-</div>
-
-#### Mobile
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="React Native" />
-<img src="https://static-00.iconduck.com/assets.00/expo-icon-2048x2048-18bspkgx.png" height="50" alt="Expo" />
-</div>
-
-</td>
-<td valign="top" width="33%">
-
-#### Databases
-<div align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="50" alt="MongoDB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="MySQL" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" />
-</div>
-
-#### Payments & Tools
-<div align="center">
-<img src="https://images.ctfassets.net/fzn2n1nzq965/HTTOloNPhisV9P4hlMPNA/cacf1bb88b9fc492dfad34378d844280/Stripe_icon_-_square.svg?q=80&w=1082" height="50" alt="Stripe" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/paypal/paypal-original.svg" height="50" alt="PayPal" />
-<img src="https://static-00.iconduck.com/assets.00/zapier-icon-495x512-on1hxnb1.png" height="50" alt="Zapier" />
-</div>
-
-</td>
-</tr>
-</table>  
+- **No over-engineering** — Simple, effective solutions that solve real problems
+- **Production-first thinking** — Tested, optimized, and deployed with confidence
+- **Scalable architecture** — Built to grow without major rewrites
+- **Code quality** — Clean, documented code that teams can maintain and extend
+- **Full ownership** — Backend, frontend, infrastructure—I handle the full stack
 
 ---
 
 <div align="center">
 
-**Currently building, always shipping.**
+📚 **Explore my repositories** to see production code and real-world implementations.
 
-If you're here to explore the code, welcome.
+💬 **Open to collaboration** on backend systems, e-commerce, payments, and full-stack projects.
 
 </div>
